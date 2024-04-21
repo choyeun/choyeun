@@ -1,2 +1,4 @@
-![choyeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=choyeun&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choyeun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img alt ="choyeun's GitHub stats" height="160em" src="https://github-readme-stats.vercel.app/api?username=choyeun&show_icons=true">
+  <img alt ="Most Used Languages" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=choyeun&hide=html&layout=compact">
+</p>
