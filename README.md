@@ -4,3 +4,4 @@
  
 </p>
  [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=choyeun)](https://solved.ac/choyeun)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
