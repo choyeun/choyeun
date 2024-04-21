@@ -3,5 +3,5 @@
   <img alt ="choyeun's GitHub stats"  src="https://github-readme-stats.vercel.app/api?username=choyeun&show_icons=true&include_all_commits=true"width=55% />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=choyeun&bg_color=ffffff&color=000000&line=58A6FF&title_color=2f80ed" width=97%/>
  <img alt="Solved.ac Profile"   src="http://mazassumnida.wtf/api/generate_badge?boj=choyeun">
-  <img src="https://github.com/choyeun/choyeun/blob/output/github-snake.svg" width="100%">
+  <img src="https://github.com/choyeun/choyeun/blob/output/github-snake.svg?color_snake=#58A6F" width="100%">
 </p>
