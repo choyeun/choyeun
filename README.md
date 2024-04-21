@@ -1,7 +1,5 @@
 <p align="center">
   <img alt ="choyeun's GitHub stats" height="160em" src="https://github-readme-stats.vercel.app/api?username=choyeun&show_icons=true&include_all_commits=true"><br>
   <img alt ="Most Used Languages" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=choyeun&hide=html&layout=compact">
- 
+ <img alt="Solved.ac Profile" src="http://mazassumnida.wtf/api/generate_badge?boj=choyeun">
 </p>
- [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=choyeun)](https://solved.ac/choyeun)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
